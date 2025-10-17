@@ -52,10 +52,10 @@ nav a {
   text-decoration: none;
 }
 
-#submit {
+.submit {
     width: 76px;
 }
-#banner {
+.banner {
     width: 475px;
 }
 
