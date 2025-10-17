@@ -54,14 +54,9 @@ nav a {
 
 .submit {
     width: 76px;
-    border-radius: 10px;
 }
 .banner {
     width: 475px;
-}
-button[type="submit"] {
-  border: none;
-  background-color: transparent;
 }
 #ourmenu {
   margin-top: 60px;
