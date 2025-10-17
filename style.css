@@ -52,6 +52,13 @@ nav a {
   text-decoration: none;
 }
 
+#submit {
+    width: 76px;
+}
+#banner {
+    width: 475px;
+}
+
 #ourmenu {
   margin-top: 60px;
 }
